@@ -6,7 +6,7 @@ What would you want to do?`,
 [
     { description: "You never know you would be set free and staying for the rest of your life in prison for stealing a loaf of bread? Hah!", scene: "accept_mission"},
     { description: `You heard about those missions where prisoners accept the mission and then haven’t been seen since then. You would rather stay in your cell than go into one of those missions.`, 
-   scene: "refuse_mission"}
+   scene: `<a href="http://localhost:3000/scene/refuse_mission"> refuse_mission</a>`}
 ])
 mindStealer.createScene("refuse_mission", 
 `You refuse the mission. It is better to stay in the jail for the rest of your life than do the mission. You will never see the sun or feel the wind on your face but that is okay, you are still alive.,
