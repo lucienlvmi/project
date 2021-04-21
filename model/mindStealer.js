@@ -9,7 +9,11 @@ What would you want to do?`,
    scene: "refuse_mission"}
 ])
 mindStealer.createScene("refuse_mission", 
-`You refuse the mission. You are sent back to your cell and have been banished for the rest of your life`, "Do you want to start again or sta in the prison forever?"
+`You refuse the mission. It is better to stay in the jail for the rest of your life than do the mission. You will never see the sun or feel the wind on your face but that is okay, you are still alive.,
+
+Afterwards, two big men entered the room. You thought you are being sent back to your cell. The two men hold you down as an unbearable pain shoot through your brain cells. It feels like your brain is being fried and blood drips out of your ears and eye socket.The neurotransmitter implanted in your brain has been activated and you can no longer have a will of your own. The Cohort now owns you and you will follow its command.
+
+You wanted to run away but you cannot see anything. Both of your hands were grab forcefully and you were dragged out the door. It feels like a lifetime has passed by. Suddenly, you hear a door open and you were shoved inside. The door closes behind you with a loud bang. The Cohort have robbed you of life and you can no longer see nor do anything of your own free will. Is this your fate?  Start the game again and choose wisely.`
 )
 
 mindStealer.createScene("accept_mission", 
