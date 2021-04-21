@@ -1,6 +1,7 @@
 require('./model/mindStealer') 
 
 const sceneRoutes = require('./routes/scene')
+// formatTimeAsHtml = require(../view/`formatTimeAsHtml`)
 
 const express = require('express')
 const app = express()

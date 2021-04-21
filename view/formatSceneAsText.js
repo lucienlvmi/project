@@ -24,7 +24,7 @@ function formatSceneAsText(scene, width, baseUrl) {
         body += "What do you want to do?\n"
         scene.options.forEach((option) => {
             body += option.description + "\n"
-            body += "--> if you choose this, click : "+baseUrl+"/scene/"+option.scene+"\n\n"
+            body += "--> click what you want to do : "+baseUrl+"/scene/"+option.scene+"\n\n"
         })
     }
     return body
