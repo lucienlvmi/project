@@ -35,10 +35,10 @@ mindStealer.createScene("decide_to_visit_Diamond",
 `You have to visit Dr. Harvey first before you are able to visit Dr. Diamond. <a href="http://localhost:3000/scene/decide_to_visit_Harvey">visit Dr. Thomas Harvey</a>`
 )
 mindStealer.createScene("decide_to_visit_Witelson", 
-`You have to visit Dr. Harvey first before you are able to visit Dr. Diamond. <a href="http://localhost:3000/scene/decide_to_visit_Harvey">visit Dr. Thomas Harvey</a>`
+`You have to visit Dr. Harvey first before you are able to visit Dr. Witelson. <a href="http://localhost:3000/scene/decide_to_visit_Harvey">visit Dr. Thomas Harvey</a>`
 )
 mindStealer.createScene("decide_to_visit_Anderson", 
-`You have to visit Dr. Harvey first before you are able to visit Dr. Diamond. <a href="http://localhost:3000/scene/decide_to_visit_Harvey">visit Dr. Thomas Harvey</a>`
+`You have to visit Dr. Harvey first before you are able to visit Dr. Anderson. <a href="http://localhost:3000/scene/decide_to_visit_Harvey">visit Dr. Thomas Harvey</a>`
 )
 
 mindStealer.createScene("decide_to_visit_Harvey", 
