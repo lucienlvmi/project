@@ -1,4 +1,4 @@
-```# project  for Evolve U
+```# project  for Evolve U - MindStealer
 
 
 npm install
